@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://falicea14.github.io/webcraft-studio-pro/sitemap.xml
