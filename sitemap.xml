@@ -1,9 +1,21 @@
-<url>
-  <loc>https://fernandoalicea.github.io/webcraft-studio-pro/</loc>
-</url>
-<url>
-  <loc>https://fernandoalicea.github.io/webcraft-studio-pro/services.html</loc>
-</url>
-<url>
-  <loc>https://fernandoalicea.github.io/webcraft-studio-pro/portfolio.html</loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/services.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/service-web-design.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/service-redesign.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/service-ecommerce.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/service-seo.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/portfolio.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/pricing.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/maintenance.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/quote-calculator.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/redesign.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/blog.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/faq.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/about.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/contact.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/privacy.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/terms.html</loc></url>
+  <url><loc>https://falicea14.github.io/webcraft-studio-pro/launch-ready.html</loc></url>
+</urlset>
