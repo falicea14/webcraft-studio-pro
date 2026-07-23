@@ -1,0 +1,17 @@
+HOW TO START WEBCRAFT STUDIO PRO ON WINDOWS
+
+1. Extract this entire folder anywhere you like, for example:
+   D:\Documents\WebCraftStudio-Pro-Milestone5-Verified-With-Launcher
+
+2. Keep all files and folders together.
+
+3. Double-click:
+   START WEBSITE.bat
+
+4. Your default browser should open index.html automatically.
+
+You can also open index.html directly by double-clicking it.
+
+IMPORTANT
+Do not move index.html away from the assets, demos, and other HTML files.
+The website uses relative paths, so the folder structure should stay intact.
